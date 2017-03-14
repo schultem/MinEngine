@@ -1,4 +1,4 @@
-An extremely minimal game engine and example game using winapi.
+An extremely minimal winapi game engine with MinGW C++ and an example "game".
 
 Dependencies:
 - mingw32-gcc-g++ 5.3.0-3
